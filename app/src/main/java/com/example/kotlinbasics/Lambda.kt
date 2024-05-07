@@ -20,3 +20,7 @@ fun addNumber(a: Int, b: Int){
     println(add)
 }
 
+// trigger a lambda expression
+//   button.setOnclickListener{
+//       sum.invoke(5,10)
+//   }
